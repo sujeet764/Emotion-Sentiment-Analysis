@@ -6,7 +6,7 @@ as you can see in the ptovided image, what you will get as a output when you wil
 ![image](https://user-images.githubusercontent.com/60980975/185377577-d002a03d-500d-4abe-99b9-6861f01b98cb.png)
 
 Tools :-
-Python
-Natural Language Processing
-TF-IDF
+Python, 
+Natural Language Processing, 
+TF-IDF,
 Tkinter
